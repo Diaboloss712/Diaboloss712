@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaboloss712&layout=donut&show_icons=true&theme=github_dark&hide_border=true&bg_color=FFFFFF&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
